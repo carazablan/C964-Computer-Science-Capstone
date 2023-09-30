@@ -1,4 +1,5 @@
 # WGU-C964-Computer-Science-Capstone
+
 The finished application will be a Google Colab notebook with as Owl Classifier section, where the user can upload a picture to be analyzed.
 User guide:
 1.	Sign-in to Google.
